@@ -1,0 +1,28 @@
+Summary:
+For my final project I want to make a LED lit infinity mirror with light sensors so when the room is dark, 
+the light around the mirror light up. Im getting an LED strip to line the edge of the mirror, 
+hopefully sending the light through the glass to illuminate the glass, turning the whole image in 
+the mirror the color of the LED instead of just lighting the surface of the mirror 
+(and creating a glare or reflection). I am going to use ambient light sensors to determine the 
+color/“temperature” of the room and light the mirror a compliment color to the room. 
+If the room is red, the mirror will be lit with a green, if the room is lit orange, the mirror 
+will light up blue, etc. There will be a mirror layered with a one way mirror to create the illusion 
+of an infinite row of lights receding into the mirror. 
+
+Component Parts: 
+two way/one way mirror - tap plastics
+mirror - tap plastics
+frame - ?? build or find readymade that will work
+LED strip - jameco 
+RGB ambient light color sensors - jameco
+
+Challenges: 
+I think that writing the code will be the hardest part and will probably take me the most time. 
+After that, wiring everything, then building the frame.
+
+Project Timeline:
+Well, because Im gone the last week of school, I have only two weeks to complete my project 
+(and I'm doing my best not to panic..)
+By next week, Id like to have most of it built and have most of my code written as well. 
+Ideally, if the whole thing was built, that would be ideal so I could focus all of my time 
+and energy on writing and perfecting the code I need written.
